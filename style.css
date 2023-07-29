@@ -1,0 +1,37 @@
+.body {
+    background-color: #000;
+
+}
+
+.header {
+    font-family: 'Berkshire Swash';
+    font-size: 76px;
+    font-weight: bold;
+    color: #FF5E19;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+.lowerHeader {
+    padding-top: 130px;
+    text-align: wrap;
+    text-align: justify;
+}
+
+.topRightImage {
+    /* float: right; */
+    /* margin-left: 200px; */
+    margin-top: 200px;
+
+    width: 200px;
+}
+
+.topLeftImage {
+    width: 200px;
+}
+
+.himage {
+    width: 30px;
+    height: auto;
+}
